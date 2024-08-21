@@ -1,0 +1,7 @@
+T-Shirt,Black,Zara,Large,$500,950
+Speaker,Black,Sony,Medium,$1000,1000
+T-Shirt,White,Versace,Medium,$500,1000
+Pant,White,Versace,Medium,$500,950
+Electric-Guitar,Red-and-Black,Yamaha,Medium,$1000,1000
+Guitar-Amplifier,Black,Yamaha,Large,$1000,1050
+Acoustic-Guitar,Brown,Mantra,Medium,$1000,1050

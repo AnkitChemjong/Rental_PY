@@ -1,0 +1,30 @@
+	   =============================================================================================
+        =                                   Ankit Rental Shop                                     =
+        =                                                                                         =
+        =                                       Rent Bill                                         =
+        =                                                                                         =
+        ===========================================================================================
+
+	Sale No: 10								 Date: 24-08-2023
+
+				Customer Name:->ANKIT
+				Customer Address:->DHARAN
+				Customer Number:->9888888888
+				For Instrument:->T-Shirt
+				Instrument0 Amount:->50
+				Instrument0 Name:->T-Shirt
+				For Instrument:->Pant
+				Instrument1 Amount:->50
+				Instrument1 Name:->Pant
+				Number of Instrument:->2
+				Your total cost is 100000.0
+				=======================================
+                 =                                   =
+                 =         Thankyou for renting!!    =
+                 =                                   =
+                =========================================   
+				=======================================
+                 =                                   =
+                 =         Please visit again!!      =
+                 =                                   =
+                =========================================   

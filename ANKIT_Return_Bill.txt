@@ -1,0 +1,32 @@
+	=============================================================================================
+    =                                   Ankit Rental Shop                                     =
+    =                                                                                         =
+    =                                       Rent Bill                                         =
+    =                                                                                         =
+    ===========================================================================================
+
+	Sale No: 99								 Date: 24-08-2023
+
+				Customer Name:->ANKIT
+				Customer Address:->DHARAN
+				Customer Number:->988888888888
+				For Instrument:->Guitar-Amplifier
+				Instrument0 Amount:->50
+				Instrument0 Name:->Guitar-Amplifier
+				For Instrument:->Acoustic-Guitar
+				Instrument1 Amount:->20
+				Instrument1 Name:->Acoustic-Guitar
+				Total Rent day:->50
+				Number of Instrument:->2
+				Total fine day:->40
+				Total fine:->$7100
+				=======================================
+                 =                                   =
+                 =         Thankyou for returning!!  =
+                 =                                   =
+               =========================================   
+				=======================================
+                 =                                   =
+                 =         Please visit again!!      =
+                 =                                   =
+               =========================================   
